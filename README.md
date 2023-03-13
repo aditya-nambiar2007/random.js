@@ -1,2 +1,2 @@
 # random.js
-Generate Rando Data
+Generate Random Data
